@@ -30,7 +30,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 <p align="center">
 <img width="640" height="360" alt="imagen" src="https://github.com/user-attachments/assets/90dd89f5-9781-43c1-b2cb-49231252244b" />
  </p>
-Figura 1. Fotografía del equipo 0X
+Figura 1. Fotografía del equipo 01
 
 ## 👥 Integrantes del Equipo
 
