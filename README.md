@@ -1,8 +1,5 @@
 # PI\_Equipo01
 
 
-
-
-
-Hola mundo!
+Hola mundo 2026!
 
