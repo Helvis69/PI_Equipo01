@@ -23,11 +23,10 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-|  | Nombre 1 | Líder del equipo | Innovación social, sostenibilidad |
-|  | Nombre 2 | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-|  | Nombre 3 | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-|  | Nombre 4 | Encargado/a de documentación | Comunicación científica, redacción técnica |
-|  | Nombre 5 | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+|  | ELvis Pilco | Líder del equipo | Innovación social, sostenibilidad |
+|  | Maximiliana Ramos | Encargado/a de documentación | Gestión ambiental, desarrollo comunitario |
+|  | Arnold Casimiro | Investigador | Diseño de prototipos, creatividad aplicada |
+|  | Jheyson Smith | Diseñador/a y modelado | Comunicación científica, redacción técnica |
 
 ## 📌 Resumen Final
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
