@@ -1,32 +1,49 @@
-# Equipo 01 - Proyectos para Ingeniería 1
+# <p align="center">🌱 Equipo 01 - Proyectos para Ingeniería 1</p>
 
-Carrera de Ingeniería Ambiental / Informática   
-Universidad Peruana Cayetano Heredia
+<p align="center">
+  <img src="https://capsule-render.vercel.app|%20Informática&fontSize=35&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
 ## 🌍 Descripción del Equipo
-Somos el Equipo 01 del curso Proyectos para Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática.
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
+<p align="justify">
+Somos el <b>Equipo 01</b> del curso <i>Proyectos para Ingeniería 2026-1</i> de la <b>Universidad Peruana Cayetano Heredia</b>. Nuestra misión es aplicar metodologías de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
+</p>
 
-Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
+### 🎯 Enfoque ODS (Objetivos de Desarrollo Sostenible)
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
 
-- ODS 9: Industria, Innovación e Infraestructura
-- ODS 11: Ciudades y Comunidades Sostenibles
-- ODS 13: Acción por el Clima
-- ODS 15: Vida de Ecosistemas Terrestres
-- ODS 16: Paz, Justicia e Instituciones Sólidas
-  
+---
+
 ## 📸 Fotografía del Equipo
-![imagen_alumnos_IA](imagen_alumnos_IA)  
-*Figura 1. Fotografía del equipo 0X*
+<div align="center">
+  <img src="TU_URL_DE_IMAGEN_AQUI" width="600px" style="border-radius: 15px;" />
+  <br>
+  <i><b>Figura 1.</b> Los rostros detrás de la innovación tecnológica y ambiental.</i>
+</div>
+
+---
 
 ## 👥 Integrantes del Equipo
 
-| Foto | Nombre | Rol | Intereses |
-|------|--------|-----|-----------|
-|  | ELvis Pilco | Líder del equipo | Innovación social, sostenibilidad |
-|  | Maximiliana Ramos | Encargado/a de documentación | Gestión ambiental, desarrollo comunitario |
-|  | Arnold Casimiro | Investigador | Diseño de prototipos, creatividad aplicada |
-|  | Jheyson Smith | Diseñador/a y modelado | Comunicación científica, redacción técnica |
 
-## 📌 Resumen Final
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+| Perfil | Nombre | Rol | Intereses |
+| :---: | :--- | :--- | :--- |
+| <img src="https://github.com" width="50"> | **Elvis Pilco** | 👑 Líder | Innovación social & Sostenibilidad |
+| <img src="https://github.com" width="50"> | **Maximiliana Ramos** | 📝 Documentación | Gestión ambiental & Comunidad |
+| <img src="https://github.com" width="50"> | **Arnold Casimiro** | 🔍 Investigador | Prototipado & Creatividad |
+| <img src="https://github.com" width="50"> | **Jheyson Smith** | 🎨 Diseñador | Comunicación & Redacción |
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" />
+</p>
