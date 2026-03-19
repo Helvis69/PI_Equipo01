@@ -16,7 +16,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 - ODS 16: Paz, Justicia e Instituciones Sólidas
   
 ## 📸 Fotografía del Equipo
-<img width="1280" height="720" alt="imagen" src="https://github.com/user-attachments/assets/90dd89f5-9781-43c1-b2cb-49231252244b" />
+<img width="640" height="360" alt="imagen" src="https://github.com/user-attachments/assets/90dd89f5-9781-43c1-b2cb-49231252244b" />
  
 Figura 1. Fotografía del equipo 0X
 
