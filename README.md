@@ -14,6 +14,17 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 - ODS 13: Acción por el Clima
 - ODS 15: Vida de Ecosistemas Terrestres
 - ODS 16: Paz, Justicia e Instituciones Sólidas
+
+**Propuestas de proyecto:**
+
+-Sistema de detección de deforestación causada por causa de la minería ilegal y tala ilegal a traves de imagenes satelitales.
+
+
+-Sistema de detección temprana de contaminación aérea o biológica.
+
+
+-simulación de impacto ambiental.
+
   
 ## 📸 Fotografía del Equipo
 <p align="center">
@@ -32,3 +43,5 @@ Figura 1. Fotografía del equipo 0X
 
 ## 📌 Resumen Final
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+
+
