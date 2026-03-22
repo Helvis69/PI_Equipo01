@@ -1,7 +1,7 @@
-# Equipo 01 - Proyectos para Ingeniería 1
-
-Carrera de Ingeniería Ambiental / Informática   
-Universidad Peruana Cayetano Heredia
+<div style="background-color: #D1E9F6; padding: 20px; border-radius: 10px; text-align: center;">
+  <h1 style="color: #2C3E50; margin: 0;"># Equipo 01 - Proyectos para Ingeniería 1</h1>
+  <p style="color: #34495E; font-weight: bold;">Carrera de Ingeniería Ambiental / Informática<br>Universidad Peruana Cayetano Heredia</p>
+</div>
 
 ## 🌍 Descripción del Equipo
 Somos el Equipo 01 del curso Proyectos para Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática.
@@ -15,15 +15,17 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 - ODS 15: Vida de Ecosistemas Terrestres
 - ODS 16: Paz, Justicia e Instituciones Sólidas
 
+
 **Propuestas de proyecto:**
 
--Sistema de detección de deforestación causada por causa de la minería ilegal y tala ilegal a traves de imagenes satelitales.
+-Sistema de detección de deforestación causada por causa de la minería ilegal y tala ilegal a traves de imágenes satelitales.
 
 
 -Sistema de detección temprana de contaminación aérea o biológica.
 
 
 -simulación de impacto ambiental.
+
 
   
 ## 📸 Fotografía del Equipo
@@ -32,14 +34,15 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
  </p>
 Figura 1. Fotografía del equipo 01
 
+
 ## 👥 Integrantes del Equipo
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 |  | ELvis Pilco | Líder del equipo | Innovación social, sostenibilidad |
-|  | Maximiliana Ramos | Encargado/a de documentación | Gestión ambiental, desarrollo comunitario |
-|  | Arnold Casimiro | Investigador | Diseño de prototipos, creatividad aplicada |
-|  | Jheyson Smith | Diseñador/a y modelado | Comunicación científica, redacción técnica |
+|  | Maximiliana Ramos | Encargado/a de documentación | Redacción, desarrollo comunitario |
+|  | Arnold Casimiro | Diseñador/a y modelado | Diseño de prototipos, creatividad aplicada |
+|  | Jheyson Smith | Investigador | Comunicación científica, redacción técnica |
 
 ## 📌 Resumen Final
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
