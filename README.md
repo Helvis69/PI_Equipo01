@@ -1,5 +1,5 @@
-<div style="background-color: #D1E9F6; padding: 20px; border-radius: 10px; text-align: center;">
-  <h1 style="color: #2C3E50; margin: 0;"># Equipo 01 - Proyectos para Ingeniería 1</h1>
+<div style="background-color: blue; padding: 20px; border-radius: 10px; text-align: center;">
+  <h1 style="color: #2C3E50; margin: 0;">Equipo 01 - Proyectos para Ingeniería 1</h1>
   <p style="color: #34495E; font-weight: bold;">Carrera de Ingeniería Ambiental / Informática<br>Universidad Peruana Cayetano Heredia</p>
 </div>
 
