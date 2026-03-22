@@ -1,8 +1,5 @@
-<p text-align="center", color="blue">
-# Equipo 01 - Proyectos para Ingeniería 1</p>
-
 <h1 align="center" style="color: #0000FF; font-weight: bold;">
-  # Equipo 01 - Proyectos para Ingeniería 1
+  Equipo 01 - Proyectos para Ingeniería 1
 </h1>
 
 Carrera de Ingeniería Ambiental / Informática   
