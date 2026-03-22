@@ -1,3 +1,0 @@
-## Diagrama de Conexiones
-
-[foto]
