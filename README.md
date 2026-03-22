@@ -6,6 +6,7 @@ Carrera de Ingeniería Ambiental / Informática
 Universidad Peruana Cayetano Heredia
 
 
+
 ## 🌍 Descripción del Equipo
 Somos el Equipo 01 del curso Proyectos para Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática.
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
