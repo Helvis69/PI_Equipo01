@@ -1,8 +1,11 @@
 # Lista de Exigencias
 
-**PROYECTO:** Sistema de monitoreo (Airmine)  
+
+**PROYECTO:** Sistema de monitoreo y biofiltración de aire urbano (Airmine)  
 **CLIENTE:** Universidad Peruana Cayetano Heredia  
+**USUARIO FINAL:** Población urbana de Lima Metropolitana (grupos vulnerables)  
 **Elaborado por:** P.C, A.C, R.G, J.C  
+
 
 ---
 
@@ -12,9 +15,9 @@
 |--------------|--------|
 | Documento    | Lista de Exigencias |
 | Páginas      | 5 |
-| Edición      | Rev. 1 |
-| Proyecto     | Sistema de captación de CO2 y su purificación |
-| Fecha        | 26/03/2026 |
+| Edición      | Rev. 2 |
+| Proyecto     | Sistema de monitoreo y reducción de contaminación del aire |
+| Fecha        | 30/03/2026 |
 | Revisado     | — |
 | Cliente      | Población urbana del Perú |
 | Elaborado    | — |
@@ -25,23 +28,24 @@
 
 | Fecha     | Tipo | Deseo o Exigencia | Descripción | Responsable |
 |-----------|------|------------------|-------------|-------------|
-| 26/03/26 | E | Función Principal | Monitorear en tiempo real la calidad del aire (gases y material particulado) y la estabilidad geológica en zonas de difícil acceso, para generar alertas inmediatas y reducir enfermedades y accidentes (Meta 3.9 ODS 3). | — |
-| 26/03/26 | E | Geometría | El dispositivo debe ser compacto y portátil, diseñado para no obstruir el paso en túneles estrechos. Dimensiones sugeridas: máximo 250 mm x 180 mm x 120 mm. | — |
-| 26/03/26 | E | Cinemática | El dispositivo puede ser fijo o portátil, instalado en vehículos, estaciones o espacios urbanos. Debe ser ligero y transportable por una persona, sin obstruir el paso. Diseñado para soportar vibraciones leves durante transporte o instalación. Su movimiento es limitado y controlado, garantizando que los sensores y sistemas internos no pierdan calibración. | — |
-| 26/03/26 | E | Fuerzas | Diseñado para resistir su propio peso, impactos menores, vibraciones y la presión del flujo de aire, garantizando la integridad estructural de los filtros y componentes internos. | — |
-| 26/03/26 | E | Energía | Alimentación mediante batería recargable de alta autonomía (mínimo 12h por turno). Protección contra cortocircuitos en atmósferas explosivas (Certificación ATEX/IECEx). | — |
-| 26/03/26 | E | Materia | Contenedor principal: Madera pintada, resistente a humedad y luz, preferentemente blanca. Recipiente de microalgas: PET transparente, permite ingreso de luz LED. Agua destilada con válvula de purga para controlar exceso de microalgas. Compartimento de nutrientes para mantener crecimiento saludable. Temporizador para controlar el ciclo de luz de las microalgas (pendiente de implementación). | — |
-| 26/03/26 | E | Señales (Salida) | Alertas visuales y sonoras: LEDs y alarmas auditivas para indicar niveles altos de CO₂, partículas PM2.5 u otros contaminantes. Transmisión de datos: Envío inalámbrico de información a la aplicación o dashboard para monitoreo en tiempo real. | — |
-| 26/03/26 | E | Control | Procesamiento local de datos mediante algoritmos inteligentes para monitorear la concentración de CO₂ y partículas, y predecir posibles acumulaciones peligrosas antes de que superen niveles seguros. Permite ajustes automáticos del sistema (luz, flujo de aire o ventilación) según las condiciones detectadas. | — |
-| 26/03/26 | E | Seguridad | Dispositivo con protección IP67, resistente al polvo y salpicaduras de agua. Diseño sin bordes filosos ni componentes expuestos que puedan causar accidentes o chispas. Garantiza una operación segura en entornos urbanos y cerca de personas. | — |
-| 26/03/26 | E | Software | Interfaz de usuario (Dashboard) para supervisores SSOMA que registre historial de eventos, ubicación del personal y estado de la batería. | — |
-| 26/03/26 | E | Ergonomía | Peso ligero (<1kg) para portabilidad en el cinturón o casco. Interfaz intuitiva operable con guantes de seguridad (ISO 9241). | — |
-| 26/03/26 | E | Mantenimiento | Sensores de fácil reemplazo y calibración rápida en superficie. Autodiagnóstico de fallas en los dispositivos de captura. | — |
-| 26/03/26 | D | Funcionamiento | Que funcione de manera correcta y eficiente. | — |
+| 30/03/26 | E | **Función Principal** | Monitorear en tiempo real la calidad del aire (CO₂, PM2.5, PM10) en zonas urbanas de Lima y contribuir a su reducción mediante un sistema de biofiltración, generando alertas para prevenir enfermedades (alineado con la Meta 3.9 del ODS 3). | — |
+| 30/03/26 | E | **Geometría** | El dispositivo debe ser compacto, modular y adaptable a espacios urbanos (postes, paraderos, viviendas). Dimensiones sugeridas: máximo 300 mm x 200 mm x 150 mm. | — |
+| 30/03/26 | E | **Cinemática** | Sistema principalmente fijo, con opción portátil. Diseñado para instalación en exteriores urbanos (calles, avenidas, colegios). Sin partes móviles externas que representen riesgo para peatones. | — |
+| 30/03/26 | E | **Fuerzas** | Debe resistir condiciones ambientales urbanas: vibraciones por tráfico, viento, polvo y exposición continua al ambiente sin perder funcionalidad. | — |
+| 30/03/26 | E | **Energía** | Alimentación mediante batería recargable y/o panel solar. Autonomía mínima de 24 horas. Bajo consumo energético. | — |
+| 30/03/26 | E | **Materia** | Estructura de materiales resistentes (plástico ABS o metal ligero). Sistema interno de biofiltración con microalgas en recipiente transparente (PET o vidrio) que permita el paso de luz. Uso de agua y nutrientes controlados para mantener el sistema biológico. | — |
+| 30/03/26 | E | **Señales (Salida)** | Indicadores visuales (LEDs tipo semáforo: verde, amarillo, rojo) que informen la calidad del aire. Alerta sonora opcional en niveles críticos. Transmisión de datos a plataforma digital. | — |
+| 30/03/26 | E | **Control** | Sistema inteligente que procese datos ambientales y active respuestas automáticas (mayor biofiltración, ventilación o alertas) según niveles de contaminación detectados. | — |
+| 30/03/26 | E | **Seguridad** | Protección contra polvo y agua (mínimo IP65). Diseño seguro para uso público: sin bordes peligrosos ni componentes expuestos. No tóxico ni contaminante. | — |
+| 30/03/26 | E | **Software** | Plataforma digital (web o app) que permita visualizar datos en tiempo real, históricos de contaminación y mapas de calidad del aire en Lima Metropolitana. | — |
+| 30/03/26 | E | **Ergonomía** | Diseño amigable para usuarios urbanos. Fácil instalación y mantenimiento. Interfaz clara para lectura rápida por cualquier persona (no solo especialistas). | — |
+| 30/03/26 | E | **Mantenimiento** | Sistema de fácil limpieza y reemplazo de componentes (sensores y cultivo de microalgas). Mantenimiento periódico sencillo y de bajo costo. | — |
+| 30/03/26 | D | **Funcionamiento** | Que el sistema opere de manera continua, eficiente y con alta precisión en la medición de contaminantes. | — |
+| 30/03/26 | D | **Impacto social** | Que el dispositivo contribuya a la educación ambiental y concientización ciudadana sobre la calidad del aire. | — |
 
 ---
 
 ## Notas
 
 - **E:** Exigencia (requisito obligatorio)  
-- **D:** Deseo (requisito opcional)
+- **D:** Deseo (requisito opcional)  
