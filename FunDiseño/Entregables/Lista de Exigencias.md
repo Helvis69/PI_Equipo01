@@ -13,10 +13,10 @@
 | Documento    | Lista de Exigencias |
 | Páginas      | 5 |
 | Edición      | Rev. 1 |
-| Proyecto     | Sistema de monitoreo inteligente para la seguridad y salud en minería de socavón |
+| Proyecto     | Sistema de captación de CO2 y su purificación |
 | Fecha        | 26/03/2026 |
 | Revisado     | — |
-| Cliente      | Sector Minero / Supervisores SSOMA |
+| Cliente      | Población urbana del Perú |
 | Elaborado    | — |
 
 ---
