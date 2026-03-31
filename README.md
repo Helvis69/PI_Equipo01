@@ -15,7 +15,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 - ODS 9: Industria, Innovación e Infraestructura
 - ODS 11: Ciudades y Comunidades Sostenibles
-- ODS 13: Acción por el Clima
+- ODS 3: Salud y Bienestar
 - ODS 15: Vida de Ecosistemas Terrestres
 - ODS 16: Paz, Justicia e Instituciones Sólidas
 
