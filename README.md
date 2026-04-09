@@ -43,7 +43,7 @@ Figura 1. Fotografía del equipo 01
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-|  | ELvis Pilco | Invetigador y electrónica | Innovación social, sostenibilidad |
+|  | ELvis Pilco | Invetigador, parte electrónica | Innovación social, sostenibilidad |
 |  | Maximiliana Ramos | Encargado/a de documentación | Redacción, desarrollo comunitario |
 |  | Arnold Casimiro | Diseñador/a e invetigador | Diseño de prototipos |
 |  | Jheyson Smith | Investigador | Comunicación científica, redacción técnica |
