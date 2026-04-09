@@ -43,9 +43,9 @@ Figura 1. Fotografía del equipo 01
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-|  | ELvis Pilco | Líder del equipo | Innovación social, sostenibilidad |
+|  | ELvis Pilco | Invetigador y electrónica | Innovación social, sostenibilidad |
 |  | Maximiliana Ramos | Encargado/a de documentación | Redacción, desarrollo comunitario |
-|  | Arnold Casimiro | Diseñador/a y modelado | Diseño de prototipos, creatividad aplicada |
+|  | Arnold Casimiro | Diseñador/a e invetigador | Diseño de prototipos |
 |  | Jheyson Smith | Investigador | Comunicación científica, redacción técnica |
 
 ## 📌 Resumen Final
