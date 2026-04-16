@@ -36,14 +36,19 @@ El modelo de regresión lineal desarrollado muestra una relación positiva clara
 
 
 <img width="696" height="564" alt="image" src="https://github.com/user-attachments/assets/7a7ab0dc-105e-4b53-8db2-68415fddf089" />
+
 Fig. 2. Relación entre PM2.5 y AQI
 
 
+
 <img width="696" height="574" alt="image" src="https://github.com/user-attachments/assets/bb1eee01-6bbe-4fa7-981c-92bf8b60170c" />
+
 Fig.3 Distribución de errores (residuos)
 
 
+
 <img width="694" height="535" alt="image" src="https://github.com/user-attachments/assets/9f916486-2344-4b64-837f-ae0fba9d3630" />
+
 Fig.4. Ajuste del modelo de regresión lineal
 
 
