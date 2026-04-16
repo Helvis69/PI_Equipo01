@@ -23,7 +23,7 @@ Con el propósito de evaluar la capacidad predictiva del modelo, el conjunto de 
 Esta estrategia permite entrenar el modelo con una porción de los datos y posteriormente evaluar su desempeño en datos no utilizados durante el proceso de ajuste, reduciendo así el riesgo de sobreajuste (overfitting).
 ________________________________________
 ### 2.3 Modelo de regresión lineal
-Se implementó un modelo de regresión lineal simple utilizando la clase `LinearRegression` de la biblioteca `sklearn.linear_model`.  
+Se implementó un modelo de regresión lineal simple utilizando la clase LinearRegression de la biblioteca sklearn.linear_model.  
 
 El modelo se ajusta a la siguiente expresión matemática:
 
@@ -60,9 +60,9 @@ este es del 2023
 
 El modelo de regresión lineal arrojó los siguientes resultados:
 
-	R² = 0.9914 
+## R² = 0.9914 
   
-	MSE = 0.1078 
+## MSE = 0.1078 
   
 El coeficiente de determinación R^2=0.9914indica que aproximadamente el 99.14% de la variabilidad observada en el valor diario del AQI puede explicarse mediante la concentración máxima diaria de CO en 8 horas. Este resultado evidencia una relación lineal extremadamente fuerte entre ambas variables.
 Por su parte, el valor de MSE = 0.1078 refleja un error promedio cuadrático reducido, lo que sugiere que las predicciones generadas por el modelo presentan una desviación mínima respecto a los valores reales observados.
@@ -71,16 +71,20 @@ En cuanto a la comparación entre los años 2022 y 2023, se observaron patrones 
 
 
 5. Referencias
+6. 
    
 [1] Scikit-learn Developers, “LinearRegression,” Scikit-learn Documentation. [Online]. Available: https://scikit-learn.org
 
+
 [2] U.S. Environmental Protection Agency, “Outdoor Air Quality Data – Download Daily Data,” AirData, EPA. Available: https://www.epa.gov/outdoor-air-quality-data/download-daily-data
+
 
 [3] U.S. Environmental Protection Agency, “Data and Tools,” EPA. Available: https://www.epa.gov/data
 
 
 
 # link del trabajo de regresion en colab
+
 https://colab.research.google.com/drive/1m0cLgGwtvCM67FoJIUW5I7kVDQCrcF-g#scrollTo=v_bZd8WPeVcw
 
 
