@@ -46,11 +46,12 @@ Si bien el modelo presenta un excelente ajuste, es importante considerar que el 
 
 ## Referencias 
 
-[1] U.S. Environmental Protection Agency, “Air Quality Index (AQI) Basics,” EPA, 2023. [Online]. Available: https://www.epa.gov/aqi
+[1] Scikit-learn Developers, “LinearRegression,” Scikit-learn Documentation. [Online]. Available: https://scikit-learn.org
 
-[2] F. Pedregosa et al., “Scikit-learn: Machine Learning in Python,” Journal of Machine Learning Research, vol. 12, pp. 2825–2830, 2011.
+[2] U.S. Environmental Protection Agency, “Outdoor Air Quality Data – Download Daily Data,” AirData, EPA. Available: https://www.epa.gov/outdoor-air-quality-data/download-daily-data
 
-[3] W. McKinney, “Data Structures for Statistical Computing in Python,” Proc. of the 9th Python in Scien
+[3] U.S. Environmental Protection Agency, “Data and Tools,” EPA. Available: https://www.epa.gov/data
+
 
 
 link del trabajo de regresion en colab
