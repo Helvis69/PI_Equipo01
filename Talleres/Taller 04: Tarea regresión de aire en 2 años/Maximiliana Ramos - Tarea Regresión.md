@@ -32,12 +32,10 @@ AQI=β0​+β1​(PM2.5)
 - 30% prueba
 
 # RESULTADOS
-El modelo de regresión lineal desarrollado muestra una relación positiva clara entre la concentración de PM2.5 y el índice de calidad del aire (AQI), lo que indica que a medida que aumentan los niveles de partículas finas en el aire, también se incrementa el nivel de contaminación. El coeficiente obtenido confirma esta tendencia, evidenciando que el PM2.5 es un buen predictor del AQI. Asimismo, el coeficiente de determinación (R²) alcanza un valor alto de 0.813, lo que sugiere que el modelo logra explicar gran parte de la variabilidad de los datos observados. En cuanto a las métricas de error, los valores de MAE (4.767) y RMSE (5.861) se mantienen en rangos aceptables, indicando que las predicciones realizadas por el modelo son cercanas a los valores reales. Finalmente, el análisis gráfico respalda estos resultados, mostrando una tendencia lineal bien definida y una distribución de residuos aproximadamente normal, lo cual valida el cumplimiento de los supuestos del modelo de regresión lineal.
+El modelo de regresión lineal desarrollado muestra una relación positiva clara entre la concentración de PM2.5 y el índice de calidad del aire (AQI), lo que indica que a medida que aumentan los niveles de partículas finas en el aire, también se incrementa el nivel de contaminación. El coeficiente (2.520) obtenido confirma esta tendencia, evidenciando que el PM2.5 es un buen predictor del AQI. Asimismo, el coeficiente de determinación (R²) alcanza un valor alto de 0.813, lo que sugiere que el modelo logra explicar gran parte de la variabilidad de los datos observados. En cuanto a las métricas de error, los valores de MAE (4.767) y RMSE (5.861) se mantienen en rangos aceptables, indicando que las predicciones realizadas por el modelo son cercanas a los valores reales. Finalmente, el análisis gráfico respalda estos resultados, mostrando una tendencia lineal bien definida y una distribución de residuos aproximadamente normal, lo cual valida el cumplimiento de los supuestos del modelo de regresión lineal.
 
 <img width="696" height="564" alt="image" src="https://github.com/user-attachments/assets/7a7ab0dc-105e-4b53-8db2-68415fddf089" />
 Fig. 2. Relación entre PM2.5 y AQI
-
-
 
 <img width="696" height="574" alt="image" src="https://github.com/user-attachments/assets/bb1eee01-6bbe-4fa7-981c-92bf8b60170c" />
 Fig.3 Distribución de errores (residuos)
