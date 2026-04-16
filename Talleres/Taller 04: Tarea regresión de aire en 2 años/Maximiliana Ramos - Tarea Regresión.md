@@ -1,6 +1,6 @@
 # INTRODUCIÓN 
 
-La calidad del aire es un factor clave en la salud ambiental y humana. En este estudio se analizan datos de concentración de material particulado fino (PM2.5) y el índice de calidad del aire (AQI), obtenidos de la página oficial de la Agencia de Protección Ambiental de Estados Unidos (EPA). El objetivo es aplicar un modelo de regresión lineal para analizar la relación entre la concentración de PM2.5, el tiempo y el AQI durante los años 2022 y 2023.
+La calidad del aire es un factor clave en la salud ambiental y humana. En este estudio se analizan datos de concentración de material particulado fino (PM2.5) y el índice de calidad del aire (AQI), obtenidos de la página oficial de la Agencia de Protección Ambiental de Estados Unidos (EPA)[1]. El objetivo es aplicar un modelo de regresión lineal para analizar la relación entre la concentración de PM2.5, el tiempo y el AQI durante los años 2022 y 2023.
 
 <img width="736" height="492" alt="image" src="https://github.com/user-attachments/assets/e7150b87-bf52-4828-bb3f-b907989347aa" />
 
