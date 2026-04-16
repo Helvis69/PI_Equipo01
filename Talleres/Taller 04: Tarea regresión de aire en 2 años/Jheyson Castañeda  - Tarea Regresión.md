@@ -36,8 +36,11 @@ Si bien el modelo presenta un excelente ajuste, es importante considerar que el 
 
 ## Referencias (Formato IEEE)
 Ejemplo en formato IEEE:
+
 [1] U.S. Environmental Protection Agency, “Air Quality Index (AQI) Basics,” EPA, 2023. [Online]. Available: https://www.epa.gov/aqi
+
 [2] F. Pedregosa et al., “Scikit-learn: Machine Learning in Python,” Journal of Machine Learning Research, vol. 12, pp. 2825–2830, 2011.
+
 [3] W. McKinney, “Data Structures for Statistical Computing in Python,” Proc. of the 9th Python in Scien
 
 link del colab
