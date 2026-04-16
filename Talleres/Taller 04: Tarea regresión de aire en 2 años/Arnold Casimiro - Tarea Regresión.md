@@ -10,12 +10,16 @@ Además, se realiza una clasificación básica de la calidad del aire en categor
 
 Se utilizaron dos conjuntos de datos correspondientes a los años 2024 y 2025, los cuales fueron concatenados para formar un único dataset.
 
+```
 pm24= pd.read_csv('/kaggle/input/datasets/brigitteadhar49/pm24-washington/2024_PM25.csv')
 pm25 = pd.read_csv('/kaggle/input/datasets/brigitteadhar49/pm-components-air/2025_PM25.csv')
+```
 
 Concatenación:
 
+```
 df = pd.concat([pm24, pm25], ignore_index=True)
+```
 
 La fase experimental se dividió en tres etapas: 
 - procesamiento
