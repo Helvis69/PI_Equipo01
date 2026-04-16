@@ -39,7 +39,7 @@ Donde:
 
 ### 3.1 Datos
 
-Se utilizaron datos de la EPA correspondientes a los años 2024 y 2025, incluyendo múltiples ciudades de Estados Unidos.
+Se utilizaron datos de la EPA correspondientes a los años 2024 y 2025, del estado New York de EE.UU.
 
 Variables principales:
 
