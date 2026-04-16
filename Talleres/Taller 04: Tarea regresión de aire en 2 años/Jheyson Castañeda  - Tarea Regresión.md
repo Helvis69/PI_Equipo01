@@ -1,8 +1,9 @@
 # REGRESION LINEAL
 ## 1. Introducción
-La contaminación atmosférica constituye uno de los principales problemas ambientales a nivel global, debido a su impacto directo sobre la salud pública y los ecosistemas. Entre los diversos contaminantes presentes en la atmósfera, el monóxido de carbono (CO) destaca por su potencial efecto adverso en la calidad del aire, especialmente en zonas urbanas con alta actividad vehicular e industrial.
-El Índice de Calidad del Aire (AQI, Air Quality Index) es un indicador estandarizado que sintetiza la concentración de distintos contaminantes en un valor numérico que refleja el nivel de riesgo para la población. En este contexto, analizar la relación entre la concentración máxima diaria de CO (promedio móvil de 8 horas) y el valor diario del AQI permite comprender en qué medida este contaminante contribuye al deterioro de la calidad del aire.
-El objetivo del presente estudio es modelar la relación entre la variable Daily Max 8-hour CO Concentration y el Daily AQI Value mediante un modelo de regresión lineal, así como realizar una comparación entre los años 2022 y 2023 con el fin de identificar posibles variaciones interanuales en el comportamiento de estas variables.
+
+La contaminación del aire es un problema ambiental de gran impacto en la salud y los ecosistemas. El monóxido de carbono (CO) es uno de los contaminantes más relevantes, especialmente en zonas urbanas, y puede influir significativamente en la calidad del aire.
+
+El Índice de Calidad del Aire (AQI) permite medir el nivel de riesgo asociado a la contaminación. En este estudio se analiza la relación entre la concentración máxima diaria de CO (promedio móvil de 8 horas) y el valor diario del AQI mediante un modelo de regresión lineal, además de comparar los años 2022 y 2023 para identificar posibles variaciones entre ambos periodos.
 
 ## 2. Metodología
 ### 2.1 Descripción y preparación de los datos
@@ -79,7 +80,7 @@ En cuanto a la comparación entre los años 2022 y 2023, se observaron patrones 
 
 
 
-link del trabajo de regresion en colab
+# link del trabajo de regresion en colab
 https://colab.research.google.com/drive/1m0cLgGwtvCM67FoJIUW5I7kVDQCrcF-g#scrollTo=v_bZd8WPeVcw
 
 
