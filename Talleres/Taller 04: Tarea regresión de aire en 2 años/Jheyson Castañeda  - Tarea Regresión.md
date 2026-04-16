@@ -90,5 +90,5 @@ Respecto a la comparación entre los años 2022 y 2023, se identificaron tendenc
 
 https://colab.research.google.com/drive/1m0cLgGwtvCM67FoJIUW5I7kVDQCrcF-g?usp=sharing
 
-
+Q. Xia et al., “Indoor–Outdoor Detection Using Low-Cost Air Quality Sensors,” IEEE Sensors Journal, vol. 26, no. 5, pp. 7692–7705, 2026.
 
