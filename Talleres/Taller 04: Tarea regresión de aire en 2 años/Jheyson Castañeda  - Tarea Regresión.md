@@ -53,7 +53,7 @@ este es del 2023
 
 <img width="580" height="363" alt="image" src="https://github.com/user-attachments/assets/b12fbf2c-1778-4eed-8c68-95ef2e5ce325" />
 
-
+### resultados obtenidos
 <img width="693" height="566" alt="image" src="https://github.com/user-attachments/assets/835bb2b4-3ad3-432f-880f-cf843a6e6de3" />
 
 
