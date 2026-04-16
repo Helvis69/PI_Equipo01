@@ -75,13 +75,12 @@ Respecto a la comparación entre los años 2022 y 2023, se identificaron tendenc
 
 ## 5. Referencias
    
-[1] Scikit-learn Developers, “LinearRegression,” Scikit-learn Documentation. [Online]. Available: https://scikit-learn.org
 
 
-[2] U.S. Environmental Protection Agency, “Outdoor Air Quality Data – Download Daily Data,” AirData, EPA. Available: https://www.epa.gov/outdoor-air-quality-data/download-daily-data
+[1] U.S. Environmental Protection Agency, “Outdoor Air Quality Data – Download Daily Data,” AirData, EPA. Available: https://www.epa.gov/outdoor-air-quality-data/download-daily-data
 
 
-[3] U.S. Environmental Protection Agency, “Data and Tools,” EPA. Available: https://www.epa.gov/data
+[2] U.S. Environmental Protection Agency, “Data and Tools,” EPA. Available: https://www.epa.gov/data
 
 
 
