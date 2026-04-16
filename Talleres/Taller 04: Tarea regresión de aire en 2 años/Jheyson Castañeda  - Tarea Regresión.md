@@ -37,6 +37,17 @@ Posteriormente, se realizaron predicciones sobre el conjunto de prueba y se eval
 	Error cuadrático medio (MSE) 
 
 ## 3. Resultados
+
+ variables que se usaron en el modelo en este caso del 2022
+<img width="573" height="338" alt="image" src="https://github.com/user-attachments/assets/9007e93c-3d39-49be-8f1b-b04591e1e3ed" />
+
+este es del 2023
+<img width="580" height="363" alt="image" src="https://github.com/user-attachments/assets/b12fbf2c-1778-4eed-8c68-95ef2e5ce325" />
+
+
+<img width="693" height="566" alt="image" src="https://github.com/user-attachments/assets/835bb2b4-3ad3-432f-880f-cf843a6e6de3" />
+
+
 El modelo de regresión lineal arrojó los siguientes resultados:
 
 	R² = 0.9914 
@@ -49,7 +60,8 @@ En cuanto a la comparación entre los años 2022 y 2023, se observaron patrones 
 
 
 
-5. Referencias (Formato IEEE)
+5. Referencias
+   
 [1] Scikit-learn Developers, “LinearRegression,” Scikit-learn Documentation. [Online]. Available: https://scikit-learn.org
 
 [2] U.S. Environmental Protection Agency, “Outdoor Air Quality Data – Download Daily Data,” AirData, EPA. Available: https://www.epa.gov/outdoor-air-quality-data/download-daily-data
