@@ -1,4 +1,4 @@
-# 📊 Regresión lineal del índice de calidad del aire (AQI)
+# Regresión lineal del índice de calidad del aire (AQI)
 
 ## 1. Introducción
 
