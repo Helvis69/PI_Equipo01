@@ -45,10 +45,12 @@ Posteriormente, se realizaron predicciones sobre el conjunto de prueba y se eval
 
 ## 3. Resultados
 
- variables que se usaron en el modelo en este caso del 2022
+variables que se usaron en el modelo en este caso del 2022
+
 <img width="573" height="338" alt="image" src="https://github.com/user-attachments/assets/9007e93c-3d39-49be-8f1b-b04591e1e3ed" />
 
 este es del 2023
+
 <img width="580" height="363" alt="image" src="https://github.com/user-attachments/assets/b12fbf2c-1778-4eed-8c68-95ef2e5ce325" />
 
 
