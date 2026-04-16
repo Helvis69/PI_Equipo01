@@ -96,7 +96,7 @@ A pesar de esto, el modelo logra capturar una tendencia clara y puede ser útil 
 ---
 
 ## 6. Referencias
+Link de Colab: https://colab.research.google.com/drive/1u8xePSGip1BM66D9FD4rDeFCAvIuUX4r#scrollTo=cvS2LYxoX-R8
 
 [1] U.S. Environmental Protection Agency, “Outdoor Air Quality Data,” Disponible en: https://www.epa.gov/outdoor-air-quality-data
 
----
