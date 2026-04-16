@@ -46,7 +46,7 @@ Posteriormente, se realizaron predicciones sobre el conjunto de prueba y se eval
 - Coeficiente de determinación ($R^2$)  
 - Error cuadrático medio (MSE)
 
-## 3. Resultados
+## 3. Resultados obtenidos
 
 variables que se usaron en el modelo en este caso del 2022
 
@@ -56,10 +56,8 @@ este es del 2023
 
 <img width="580" height="363" alt="image" src="https://github.com/user-attachments/assets/b12fbf2c-1778-4eed-8c68-95ef2e5ce325" />
 
-### resultados obtenidos
+### resultados
 <img width="726" height="565" alt="image" src="https://github.com/user-attachments/assets/ce62aa25-2e52-4ffd-9929-02f9b04ce8ab" />
-
-
 
 El modelo de regresión lineal arrojó los siguientes resultados:
 
