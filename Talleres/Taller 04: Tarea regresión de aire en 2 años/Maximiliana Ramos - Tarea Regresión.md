@@ -6,7 +6,7 @@ La calidad del aire es un factor clave en la salud ambiental y humana. En este e
 <p align="center"><img width="700" height="430" alt="image" src="https://github.com/user-attachments/assets/8e2060cb-dae2-4d87-b5e0-beeaf00b6162" /></p>
 
 
-#### Fig.1. Evidencian la correlación entre cáncer y emisiones tóxicas en Puerto Rico - El Nuevo Día
+#### Fig.1. Evidencian la correlación entre cáncer y emisiones tóxicas en Puerto Rico [2]
 
 
 # METODOLOGÍA
