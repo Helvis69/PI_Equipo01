@@ -22,19 +22,26 @@ Con el propósito de evaluar la capacidad predictiva del modelo, el conjunto de 
 Esta estrategia permite entrenar el modelo con una porción de los datos y posteriormente evaluar su desempeño en datos no utilizados durante el proceso de ajuste, reduciendo así el riesgo de sobreajuste (overfitting).
 ________________________________________
 ### 2.3 Modelo de regresión lineal
-Se implementó un modelo de regresión lineal simple utilizando la clase LinearRegression de la biblioteca sklearn.linear_model.
+Se implementó un modelo de regresión lineal simple utilizando la clase `LinearRegression` de la biblioteca `sklearn.linear_model`.  
+
 El modelo se ajusta a la siguiente expresión matemática:
-y=β_0+β_1 x+ε
+
+$$
+y = \beta_0 + \beta_1 x + \varepsilon
+$$
 
 donde:
-	y ---representa el valor del AQI, 
-	x --- corresponde a la concentración máxima diaria de CO, 
-	β_0 --- es la ordenada al origen, 
-	β_1 --- es el coeficiente de regresión, 
-	ε --- es el término de error. 
+
+- $y$ representa el valor del AQI  
+- $x$ corresponde a la concentración máxima diaria de CO  
+- $\beta_0$ es la ordenada al origen  
+- $\beta_1$ es el coeficiente de regresión  
+- $\varepsilon$ es el término de error  
+
 Posteriormente, se realizaron predicciones sobre el conjunto de prueba y se evaluó el desempeño del modelo mediante dos métricas:
-	Coeficiente de determinación (R²) 
-	Error cuadrático medio (MSE) 
+
+- Coeficiente de determinación ($R^2$)  
+- Error cuadrático medio (MSE)
 
 ## 3. Resultados
 
