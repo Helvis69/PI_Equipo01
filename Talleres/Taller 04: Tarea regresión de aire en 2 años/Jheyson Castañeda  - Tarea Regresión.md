@@ -87,7 +87,7 @@ Respecto a la comparación entre los años 2022 y 2023, se identificaron tendenc
 
 
 
-https://colab.research.google.com/drive/1m0cLgGwtvCM67FoJIUW5I7kVDQCrcF-g#scrollTo=v_bZd8WPeVcw
+https://colab.research.google.com/drive/1m0cLgGwtvCM67FoJIUW5I7kVDQCrcF-g?usp=sharing
 
 
 
