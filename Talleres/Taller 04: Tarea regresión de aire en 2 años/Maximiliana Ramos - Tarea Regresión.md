@@ -63,3 +63,5 @@ Los resultados obtenidos evidencian que la concentración de PM2.5 es un factor 
 [1] United States Environmental Protection Agency, “Outdoor Air Quality Data,” EPA, 2023. [Online]. Available: https://www.epa.gov/outdoor-air-quality-daa
 
 [2] HOU, Tianhua, et al. Oxidative stress is the pivot for PM2. 5-induced lung injury. Food and Chemical Toxicology, 2024, vol. 184, p. 114362.
+
+[3] https://colab.research.google.com/drive/1mfNrmoIC1DJXcOpj1PUvGuOM3QureGTf?usp=sharing 
