@@ -1,102 +1,168 @@
-# Regresión lineal del índice de calidad del aire (AQI)
+# Regresión lineal aplicada a datos de calidad del aire (EPA)
 
 ## 1. Introducción
 
-La calidad del aire es un factor clave en la salud pública. Uno de los indicadores más utilizados para medirla es el **Air Quality Index (AQI)**, el cual se calcula a partir de la concentración de diversos contaminantes atmosféricos.
+La calidad del aire es un factor crítico en la salud pública y en la evaluación de entornos urbanos. El **Air Quality Index (AQI)** es un indicador ampliamente utilizado que sintetiza el impacto de diferentes contaminantes atmosféricos sobre la salud humana.
 
-En este trabajo se analiza la relación entre la concentración de monóxido de carbono (CO) y el AQI, utilizando datos proporcionados por la Agencia de Protección Ambiental de los Estados Unidos (EPA). El objetivo principal es determinar si existe una relación lineal entre ambas variables mediante un modelo de regresión lineal.
+En este trabajo se analiza la relación entre la concentración de monóxido de carbono (CO) y el AQI utilizando datos de la Agencia de Protección Ambiental de Estados Unidos (EPA). El objetivo es construir un modelo de regresión lineal que permita **predecir el AQI a partir de variables ambientales**, específicamente la concentración de CO.
+
+Este enfoque se alinea con investigaciones recientes que destacan el uso de datos de calidad del aire junto con técnicas de aprendizaje automático para inferir información del entorno. Por ejemplo, Indoor–Outdoor Detection Using Low-Cost Air Quality Sensors demuestra que variables como CO, temperatura y material particulado pueden ser utilizadas eficazmente para caracterizar entornos y realizar predicciones mediante modelos de machine learning.
 
 ---
 
-## 2. Metodología
+## 2. Objetivo del modelo
 
-### 2.1 Fuente de datos
+El objetivo del modelo es:
 
-Los datos fueron obtenidos del portal oficial de la EPA, específicamente de la sección de calidad del aire. Se utilizaron registros correspondientes a los años 2024 y 2025 para distintas ciudades de Estados Unidos.
+ **Predecir el valor del AQI (calidad del aire) a partir de la concentración de CO**
 
-### 2.2 Variables
+Esto implica:
 
-* Variable independiente (X):
+* Identificar si existe una relación lineal entre CO y AQI
+* Cuantificar cuánto influye el CO en el AQI
+* Evaluar la capacidad predictiva del modelo
 
-  * Concentración máxima diaria de CO en 8 horas (ppm)
-* Variable dependiente (y):
-
-  * Índice de calidad del aire (AQI)
-
-### 2.3 Preprocesamiento
-
-* Se unieron los datasets de ambos años
-* Se renombraron columnas para facilitar el análisis
-* Se convirtieron los datos a formato numérico
-* Se eliminaron valores nulos
-
-### 2.4 Modelo
-
-Se utilizó un modelo de regresión lineal simple implementado con la librería `scikit-learn`.
-
-El modelo tiene la forma:
+El modelo utilizado es:
 
 AQI = β₀ + β₁ · CO
 
-Se dividieron los datos en:
+Donde:
 
-* 70% para entrenamiento
-* 30% para prueba
+* AQI → variable objetivo
+* CO → variable explicativa
+* β₀ → intercepto
+* β₁ → impacto del CO
 
+---
 
-<img width="696" height="566" alt="image" src="https://github.com/user-attachments/assets/d635b363-0a18-40df-a022-97fdf42dd7b3" />
+## 3. Metodología
 
-<img width="699" height="564" alt="image" src="https://github.com/user-attachments/assets/f77b4501-e6e3-4b73-bba7-afe677a313b8" />
+### 3.1 Datos
 
+Se utilizaron datos de la EPA correspondientes a los años 2024 y 2025, incluyendo múltiples ciudades de Estados Unidos.
 
+Variables principales:
 
-## 3. Resultados
+* CO (ppm)
+* AQI
 
-El modelo entrenado produjo los siguientes coeficientes:
+### 3.2 Preprocesamiento
 
-* Intercepto (β₀): -0.2092
-* Coeficiente (β₁): 11.5290
+* Unión de datasets de ambos años
+* Conversión de variables a formato numérico
+* Eliminación de valores nulos
+* Limpieza de columnas irrelevantes
 
-Por lo tanto, la ecuación del modelo es:
+### 3.3 Modelo
+
+Se utilizó un modelo de regresión lineal simple (`LinearRegression`) con:
+
+* 70% datos de entrenamiento
+* 30% datos de prueba
+
+---
+
+## 4. Resultados
+
+El modelo entrenado produjo:
+
+* Intercepto (β₀): **-0.2092**
+* Coeficiente (β₁): **11.5290**
+
+### Modelo final:
 
 AQI = -0.2092 + 11.5290 · CO
 
 ### Interpretación
 
-* El coeficiente β₁ indica que, por cada aumento de 1 ppm en la concentración de CO, el AQI aumenta aproximadamente en **11.53 unidades**.
-* El intercepto es cercano a cero, lo cual es razonable ya que un valor de CO cercano a cero implicaría un AQI bajo.
+* Por cada aumento de **1 ppm de CO**, el AQI aumenta aproximadamente en **11.53 unidades**
+* Existe una **relación positiva fuerte** entre CO y calidad del aire
 
 ---
 
-## 4. Discusión
+## 5. Visualización
 
-Los resultados muestran una **relación positiva fuerte** entre la concentración de monóxido de carbono y el índice AQI. Esto es consistente con la teoría, ya que el CO es uno de los contaminantes que contribuyen directamente al deterioro de la calidad del aire.
+### 5.1 Relación entre CO y AQI
 
-Sin embargo, es importante considerar que:
+```python
+sns.scatterplot(x=df["CO"], y=df["AQI"])
+plt.title("Relación entre CO y AQI")
+plt.show()
+```
 
-* El AQI no depende únicamente del CO, sino también de otros contaminantes como:
+<img width="700" height="559" alt="imagen" src="https://github.com/user-attachments/assets/0de3fa92-a779-47b1-8b2b-79c789ce02ba" />
 
-  * Ozono (O₃)
-  * Material particulado (PM2.5, PM10)
-  * Dióxido de nitrógeno (NO₂)
-
-* Por lo tanto, el modelo es una **simplificación** de la realidad.
-
-A pesar de esto, el modelo logra capturar una tendencia clara y puede ser útil para análisis preliminares.
+Muestra una tendencia creciente (relación lineal positiva)
 
 ---
 
-## 5. Conclusiones
+### 5.2 Valores reales vs predichos
 
-* Se encontró una relación lineal positiva entre CO y AQI.
-* El modelo de regresión lineal permite predecir el AQI de manera aproximada.
-* El coeficiente obtenido indica que el CO tiene un impacto significativo en la calidad del aire.
-* Para mejorar el modelo, se podrían incluir más variables (regresión múltiple).
+```python
+plt.scatter(y_test, pred)
+plt.xlabel("AQI real")
+plt.ylabel("AQI predicho")
+plt.title("Predicción del modelo")
+plt.show()
+```
+
+<img width="1465" height="312" alt="imagen" src="https://github.com/user-attachments/assets/5c6e31cb-fc14-41e3-8d34-88e209918da0" />
+
+Permite evaluar qué tan bien el modelo predice
 
 ---
 
-## 6. Referencias
-Link de Colab: https://colab.research.google.com/drive/1u8xePSGip1BM66D9FD4rDeFCAvIuUX4r#scrollTo=cvS2LYxoX-R8
+### 5.3 Distribución de residuos
 
-[1] U.S. Environmental Protection Agency, “Outdoor Air Quality Data,” Disponible en: https://www.epa.gov/outdoor-air-quality-data
+```python
+sns.histplot(y_test - pred, kde=True)
+plt.title("Residuos del modelo")
+plt.show()
+```
 
+<img width="701" height="557" alt="imagen" src="https://github.com/user-attachments/assets/d5abf24c-b7f1-40e9-a57a-6a264ed13359" />
+
+Idealmente distribución normal centrada en 0
+
+---
+
+## 6. Discusión
+
+Los resultados obtenidos son consistentes con la literatura científica.
+
+El artículo Indoor–Outdoor Detection Using Low-Cost Air Quality Sensors señala que:
+
+* El CO es una de las variables más relevantes en el análisis de calidad del aire
+* Las variables ambientales presentan correlaciones significativas con indicadores como AQI
+* El uso de modelos de machine learning permite capturar relaciones entre contaminantes y condiciones ambientales
+
+Además, el estudio destaca que:
+
+> Las variables como CO, NO₂ y PM2.5 son altamente informativas para modelar condiciones ambientales.
+
+Esto respalda el enfoque de este trabajo, donde se utiliza CO como predictor principal.
+
+Sin embargo, el modelo presenta limitaciones:
+
+* El AQI depende de múltiples contaminantes, no solo CO
+* Existe variabilidad ambiental (clima, tráfico, ubicación)
+* El modelo es una simplificación de un sistema complejo
+
+---
+
+## 7. Conclusiones
+
+-  Se encontró una relación lineal positiva entre CO y AQI
+- El modelo permite predecir el AQI de manera aproximada
+- El CO tiene un impacto significativo en la calidad del aire
+- El uso de machine learning en datos ambientales es una herramienta válida y efectiva
+
+---
+
+## 8. Referencias (IEEE)
+
+[1] Q. Xia et al., “Indoor–Outdoor Detection Using Low-Cost Air Quality Sensors,” IEEE Sensors Journal, vol. 26, no. 5, pp. 7692–7705, 2026.
+
+[2] U.S. Environmental Protection Agency, “Outdoor Air Quality Data.” Disponible en: https://www.epa.gov/outdoor-air-quality-data
+
+[3] https://colab.research.google.com/drive/1u8xePSGip1BM66D9FD4rDeFCAvIuUX4r#scrollTo=CUOPJwQNX-R6 
