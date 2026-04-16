@@ -5,6 +5,9 @@ La contaminación del aire es un problema ambiental de gran impacto en la salud 
 
 El Índice de Calidad del Aire (AQI) permite medir el nivel de riesgo asociado a la contaminación. En este estudio se analiza la relación entre la concentración máxima diaria de CO (promedio móvil de 8 horas) y el valor diario del AQI mediante un modelo de regresión lineal, además de comparar los años 2022 y 2023 para identificar posibles variaciones entre ambos periodos.
 
+<img width="1305" height="745" alt="image" src="https://github.com/user-attachments/assets/9f9d2744-92b4-4714-88a7-d142cc52a62b" />
+
+
 ## 2. Metodología
 ### 2.1 Descripción y preparación de los datos
 Se emplearon registros correspondientes a los años 2022 y 2023. Ambos conjuntos de datos fueron integrados en una única base con la finalidad de incrementar el número total de observaciones, mejorar la estabilidad estadística del modelo y permitir análisis comparativos entre periodos anuales.
