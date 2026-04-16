@@ -1,4 +1,4 @@
-# REGRESION LINEAL
+# MODELO DE REGRESION LINEAL
 ## 1. Introducción
 
 La contaminación del aire es un problema ambiental de gran impacto en la salud y los ecosistemas. El monóxido de carbono (CO) es uno de los contaminantes más relevantes, especialmente en zonas urbanas, y puede influir significativamente en la calidad del aire.
@@ -83,5 +83,6 @@ En cuanto a la comparación entre los años 2022 y 2023, se observaron patrones 
 # link del trabajo de regresion en colab
 
 https://colab.research.google.com/drive/1m0cLgGwtvCM67FoJIUW5I7kVDQCrcF-g#scrollTo=v_bZd8WPeVcw
+
 
 
