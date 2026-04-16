@@ -24,6 +24,12 @@ Para evaluar el desempeño del modelo se utilizaron las siguientes métricas:
 •	Error cuadrático medio (MSE) 
 
 ## 3. Resultados
+
+<img width="708" height="565" alt="image" src="https://github.com/user-attachments/assets/b886e6c1-724f-4ec5-803c-4bed97ea00b8" />
+
+
+<img width="712" height="567" alt="image" src="https://github.com/user-attachments/assets/d667ca03-d2c7-4b17-b2a5-0848e1fd0ed1" />
+
 Los resultados obtenidos fueron:
 •	R² = 0.9914 
 •	MSE = 0.1078 
