@@ -63,9 +63,11 @@ El modelo de regresión lineal arrojó los siguientes resultados:
   
 ## MSE = 0.1078 
   
-El coeficiente de determinación R^2=0.9914indica que aproximadamente el 99.14% de la variabilidad observada en el valor diario del AQI puede explicarse mediante la concentración máxima diaria de CO en 8 horas. Este resultado evidencia una relación lineal extremadamente fuerte entre ambas variables.
-Por su parte, el valor de MSE = 0.1078 refleja un error promedio cuadrático reducido, lo que sugiere que las predicciones generadas por el modelo presentan una desviación mínima respecto a los valores reales observados.
-En cuanto a la comparación entre los años 2022 y 2023, se observaron patrones de comportamiento similares en la relación entre ambas variables, aunque podrían existir diferencias en los niveles promedio de concentración y en la variabilidad anual, lo cual puede estar asociado a factores ambientales o regulatorios.
+El coeficiente de determinación obtenido, $R^2 = 0.9914$, señala que aproximadamente el 99.14% de la variación observada en el valor diario del AQI es explicada por la concentración máxima diaria de CO en un promedio móvil de 8 horas. Este resultado evidencia una relación lineal muy sólida entre ambas variables.
+
+Asimismo, el error cuadrático medio ($MSE = 0.1078$) indica que el nivel de error en las predicciones es bajo, lo que implica que las estimaciones del modelo se aproximan considerablemente a los valores reales observados.
+
+Respecto a la comparación entre los años 2022 y 2023, se identificaron tendencias similares en la relación entre las variables analizadas. No obstante, podrían presentarse diferencias en los niveles promedio de concentración y en la variabilidad anual, posiblemente asociadas a factores ambientales, regulatorios u otras condiciones externas.
 
 
 
