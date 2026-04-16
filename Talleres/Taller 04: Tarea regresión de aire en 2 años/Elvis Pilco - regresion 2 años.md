@@ -165,4 +165,4 @@ Sin embargo, el modelo presenta limitaciones:
 
 [2] U.S. Environmental Protection Agency, “Outdoor Air Quality Data.” Disponible en: https://www.epa.gov/outdoor-air-quality-data
 
-[3] https://colab.research.google.com/drive/1u8xePSGip1BM66D9FD4rDeFCAvIuUX4r#scrollTo=CUOPJwQNX-R6 
+[3] Link de código: https://colab.research.google.com/drive/1m258hGpFJ7bJ7v7sVHWcP3at2K-Ojxt6#scrollTo=d97106ae 
