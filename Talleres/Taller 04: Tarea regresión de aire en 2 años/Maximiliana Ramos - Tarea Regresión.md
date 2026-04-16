@@ -2,23 +2,22 @@
 
 La calidad del aire es un factor clave en la salud ambiental y humana. En este estudio se analizan datos de concentración de material particulado fino (PM2.5) y el índice de calidad del aire (AQI), obtenidos de la página oficial de la Agencia de Protección Ambiental de Estados Unidos (EPA). El objetivo es aplicar un modelo de regresión lineal para analizar la relación entre la concentración de PM2.5, el tiempo y el AQI durante los años 2022 y 2023.
 
-          <img width="736" height="492" alt="image" src="https://github.com/user-attachments/assets/61f2c110-8063-45bb-a4d5-60849d7110e7" />
+<img width="736" height="492" alt="image" src="https://github.com/user-attachments/assets/e7150b87-bf52-4828-bb3f-b907989347aa" />
+
+Fig.1. Only Puerto Rico Meets WHO Air Standards in the Americas, Study Shows
 
 
 # METODLOGÍA
 
-Se utilizaron dos datasets correspondientes a los años 2022 y 2023. Ambos fueron integrados en un solo conjunto de datos para su análisis.
-
-Se realizaron los siguientes pasos:
-
-Conversión de variables a formato adecuado (fechas y valores numéricos)
-Eliminación de valores nulos
-Creación de una variable temporal en días
-Selección de variables:
-Variables independientes: tiempo (Days) y concentración de PM2.5
-Variable dependiente: AQI
-Aplicación de regresión lineal múltiple
-División del dataset en entrenamiento (70%) y prueba (30%)
+Se utilizaron dos datasets correspondientes a los años 2022 y 2023, ambos fueron integrados en un solo conjunto de datos para su análisis y se realizaron los siguientes pasos:
+- Conversión de variables a formato adecuado (fechas y valores numéricos)
+- Eliminación de valores nulos
+- Creación de una variable temporal en días
+- Selección de variables:
+- Variables independientes: tiempo (Days) y concentración de PM2.5
+- Variable dependiente: AQI
+- Aplicación de regresión lineal múltiple
+- División del dataset en entrenamiento (70%) y prueba (30%)
 
 # RESULTADOS
 
