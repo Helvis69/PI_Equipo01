@@ -1,4 +1,5 @@
-##1. Introducción
+## regresion lineal
+## 1. Introducción
 La calidad del aire constituye un indicador clave para evaluar tanto el impacto ambiental como los posibles efectos adversos en la salud pública. Dentro de los contaminantes atmosféricos más significativos se encuentra el monóxido de carbono (CO), cuya concentración tiene una influencia directa en el Índice de Calidad del Aire (AQI).
 El objetivo del presente estudio es construir un modelo de regresión lineal a partir de datos correspondientes a los años 2022 y 2023, con el propósito de examinar la relación entre la concentración máxima diaria de CO y el valor diario del AQI. Para ello, se consolidaron ambos conjuntos de datos en un único dataset, lo que permitió realizar un análisis integrado, consistente y metodológicamente más sólido
 
