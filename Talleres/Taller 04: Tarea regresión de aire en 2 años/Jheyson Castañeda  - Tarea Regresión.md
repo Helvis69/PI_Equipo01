@@ -17,10 +17,9 @@ La selección de estas variables responde al interés de evaluar el grado de inf
 Antes del modelamiento, se realizó un análisis estadístico descriptivo utilizando el método describe(), el cual permitió obtener medidas de tendencia central (media), dispersión (desviación estándar), así como valores extremos y cuartiles. Este análisis preliminar facilitó la comprensión del comportamiento y variabilidad de los datos.
 
 ### 2.2 División del conjunto de datos
-Con el propósito de evaluar la capacidad predictiva del modelo, el conjunto de datos fue dividido en dos subconjuntos mediante la función train_test_split():
-	80% de los datos para entrenamiento. 
-	20% de los datos para prueba. 
-Esta estrategia permite entrenar el modelo con una porción de los datos y posteriormente evaluar su desempeño en datos no utilizados durante el proceso de ajuste, reduciendo así el riesgo de sobreajuste (overfitting).
+Con el fin de analizar el desempeño predictivo del modelo, el conjunto de datos se dividió en dos partes utilizando la función train_test_split(): el 80% de los registros se destinó al entrenamiento y el 20% restante a la evaluación.
+
+Esta metodología permite ajustar el modelo con una parte de la información disponible y, posteriormente, medir su rendimiento sobre datos que no fueron utilizados durante el entrenamiento, lo que contribuye a disminuir el riesgo de sobreajuste (overfitting) y mejora la validez de los resultados.
 ________________________________________
 ### 2.3 Modelo de regresión lineal
 Se implementó un modelo de regresión lineal simple utilizando la clase LinearRegression de la biblioteca sklearn.linear_model.  
@@ -70,8 +69,7 @@ En cuanto a la comparación entre los años 2022 y 2023, se observaron patrones 
 
 
 
-5. Referencias
-6. 
+## 5. Referencias
    
 [1] Scikit-learn Developers, “LinearRegression,” Scikit-learn Documentation. [Online]. Available: https://scikit-learn.org
 
@@ -80,7 +78,6 @@ En cuanto a la comparación entre los años 2022 y 2023, se observaron patrones 
 
 
 [3] U.S. Environmental Protection Agency, “Data and Tools,” EPA. Available: https://www.epa.gov/data
-
 
 
 # link del trabajo de regresion en colab
