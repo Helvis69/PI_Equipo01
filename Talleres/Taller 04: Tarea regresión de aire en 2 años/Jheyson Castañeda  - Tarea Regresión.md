@@ -31,7 +31,9 @@ Para evaluar el desempeño del modelo se utilizaron las siguientes métricas:
 <img width="712" height="567" alt="image" src="https://github.com/user-attachments/assets/d667ca03-d2c7-4b17-b2a5-0848e1fd0ed1" />
 
 Los resultados obtenidos fueron:
+
 •	R² = 0.9914 
+
 •	MSE = 0.1078 
 
 El valor de R² indica que el modelo explica aproximadamente el 99.14% de la variabilidad del AQI, lo que evidencia una relación lineal extremadamente fuerte entre la concentración de CO y el índice de calidad del aire.
