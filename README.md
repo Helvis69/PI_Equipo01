@@ -43,10 +43,10 @@ Figura 1. Fotografía del equipo 01
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-|  | ELvis Pilco | Invetigador, parte electrónica | Innovación social, sostenibilidad |
-|  | Maximiliana Ramos | Encargado/a de documentación | Redacción, desarrollo comunitario |
+|  | ELvis Pilco | Diseño y electrónica | Innovación social, sostenibilidad |
+|  | Maximiliana Ramos | Investigación y Documentación| Redacción, desarrollo comunitario |
 |  | Arnold Casimiro | Diseñador/a e invetigador | Diseño de prototipos |
-|  | Jheyson Smith | Investigador | Comunicación científica, redacción técnica |
+|  | Jheyson Smith | Investigador y Galán | Comunicación científica, redacción técnica |
 
 ## 📌 Resumen Final
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
