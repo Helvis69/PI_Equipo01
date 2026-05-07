@@ -3,8 +3,7 @@
 </h1>
 <img width="1514" height="573" alt="image" src="https://github.com/user-attachments/assets/e3dce5fb-cd23-4aee-8a96-1f958714e830" />
 
-Carrera de Ingeniería Ambiental / Informática   
-Universidad Peruana Cayetano Heredia
+
 
 
 
