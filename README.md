@@ -13,22 +13,21 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
+- ODS 3: Salud y Bienestar
 - ODS 9: Industria, Innovación e Infraestructura
 - ODS 11: Ciudades y Comunidades Sostenibles
-- ODS 3: Salud y Bienestar
 - ODS 15: Vida de Ecosistemas Terrestres
 - ODS 16: Paz, Justicia e Instituciones Sólidas
 
 
 **Propuestas de proyecto:**
 
+
+-Sistema de detección y reducción de contaminación aérea.
+
 -Sistema de detección de deforestación causada por causa de la minería ilegal y tala ilegal a traves de imágenes satelitales.
 
-
--Sistema de detección temprana de contaminación aérea o biológica.
-
-
--simulación de impacto ambiental.
+-Sistema de monitoreo de impacto ambiental.
 
 
   
@@ -45,8 +44,8 @@ Figura 1. Fotografía del equipo 01
 |------|--------|-----|-----------|
 |  | ELvis Pilco | Diseño y electrónica | Innovación social, sostenibilidad |
 |  | Maximiliana Ramos | Investigación y Documentación| Redacción, desarrollo comunitario |
-|  | Arnold Casimiro | Diseñador/a e invetigador | Diseño de prototipos |
-|  | Jheyson Smith | Investigador y Galán | Comunicación científica, redacción técnica |
+|  | Arnold Casimiro | Documetación y diseño  | Diseño de prototipos |
+|  | Jheyson Smith | Investigación y Evaluación | Comunicación científica, redacción técnica |
 
 ## 📌 Resumen Final
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
