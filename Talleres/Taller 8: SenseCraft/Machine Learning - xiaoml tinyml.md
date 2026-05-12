@@ -1,8 +1,6 @@
 ## Clasificación de Imágenes con IA y Comunicación MQTT usando ESP32S3 Sense
 
 Integrantes:
-- Jheyson Castañeda
-- Maximiliana Ramos
 - Arnold Casimiro
 - Elvis Pilco
 
