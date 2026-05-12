@@ -77,6 +77,18 @@ Para cada una de las categorías se obtuvieron cerca de 100 imágenes empleando 
 El proceso de entrenamiento se llevó a cabo utilizando la plataforma SenseCraft, pasando por distintas etapas como la creación de clases, la captura de imágenes, la organización automática del conjunto de datos, el entrenamiento en la nube, la evaluación del desempeño del modelo y finalmente la exportación del firmware.
 
 Para el desarrollo del modelo se emplearon algoritmos de clasificación de imágenes adaptados y optimizados para dispositivos embebidos. La finalidad principal fue que el sistema lograra aprender las características visuales de cada objeto, permitiendo así su identificación en tiempo real durante la ejecución del dispositivo.
+### para el celular
+
+<img width="1280" height="628" alt="image" src="https://github.com/user-attachments/assets/31200cba-2543-4a68-9388-9cf702ea003b" />
+
+### para el lapicero
+
+<img width="1280" height="601" alt="image" src="https://github.com/user-attachments/assets/1bb4a7e0-41ce-4ea0-8551-72935f832371" />
+
+### para el mouse
+
+<img width="1280" height="590" alt="image" src="https://github.com/user-attachments/assets/f380a2ac-1fc4-40e3-9f98-2d76da781f1e" />
+
 
 
 
