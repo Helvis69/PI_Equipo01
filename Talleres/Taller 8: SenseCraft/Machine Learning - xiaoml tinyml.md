@@ -1,5 +1,10 @@
 ## Clasificación de Imágenes con IA y Comunicación MQTT usando ESP32S3 Sense
 
+Integrantes:
+- Jheyson Castañeda
+- Maximiliana Ramos
+- Arnold Casimiro
+- Elvis Pilco
 
 
 ## 1. Introducción
@@ -25,6 +30,9 @@ Durante las pruebas se logró establecer correctamente la conexión con el servi
 ### Objetivo General
 
 Desarrollar un sistema de clasificación de imágenes en tiempo real utilizando técnicas de TinyML con el ESP32S3 Sense y la plataforma SenseCraft AI.
+
+<img width="720" height="1280" alt="WhatsApp Image 2026-05-12 at 16 37 49" src="https://github.com/user-attachments/assets/051ff479-d0ee-4684-a73f-52ab21d8b65e" />
+
 
 ### Objetivos Específicos
 
@@ -98,6 +106,9 @@ MQTT es un protocolo de mensajería ligero ampliamente utilizado en sistemas IoT
 | Contraseña | `Cayetano2026` |
 | SSL | `No` |
 | Client ID | `UPCH/Equipo1` |
+
+<img width="1002" height="840" alt="image" src="https://github.com/user-attachments/assets/39c72be0-76a3-4193-b76f-0351bc87c2db" />
+
 
 ---
 
