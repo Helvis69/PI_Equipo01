@@ -13,9 +13,9 @@ En este taller se trabajó con el dispositivo ESP32S3 Sense, que cuenta con cone
 
 El proyecto estuvo centrado en la identificación de tres categorías principales:
 
-- Laptop
+- Lapiceros
 - Celular
-- Cargador
+- mouse
 
 
 Después de completar el entrenamiento del modelo, este se implementó en el dispositivo ESP32S3 Sense con el objetivo de realizar inferencias directamente en el microcontrolador mediante tecnología Edge AI. Posteriormente, se habilitó una comunicación a través del protocolo MQTT para enviar las etiquetas obtenidas hacia un broker externo.
@@ -64,8 +64,11 @@ El primer paso consistió en crear un dataset de imágenes para entrenar el mode
 
 Se definieron tres categorías:
 
-- lapicerps
+- lapiceros
 - Celular
 - Cmouse
+
+<img width="1280" height="562" alt="image" src="https://github.com/user-attachments/assets/dd4fc234-c19c-45f9-b48c-90fd2875729c" />
+
 
 
