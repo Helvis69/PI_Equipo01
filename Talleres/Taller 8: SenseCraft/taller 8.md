@@ -21,7 +21,7 @@ El proyecto estuvo centrado en la identificación de tres categorías principale
 Después de completar el entrenamiento del modelo, este se implementó en el dispositivo ESP32S3 Sense con el objetivo de realizar inferencias directamente en el microcontrolador mediante tecnología Edge AI. Posteriormente, se habilitó una comunicación a través del protocolo MQTT para enviar las etiquetas obtenidas hacia un broker externo.
 
 En las pruebas realizadas, la conexión con el servidor MQTT se estableció de manera satisfactoria y el dispositivo logró ser reconocido por el sistema principal. No obstante, la información transmitida no aparecía adecuadamente en la interfaz principal. Esto podría estar relacionado con una configuración incorrecta del topic utilizado o con inconsistencias en la estructura del mensaje enviado.
----
+
 
 ## 2. Objetivo de la Actividad
 
