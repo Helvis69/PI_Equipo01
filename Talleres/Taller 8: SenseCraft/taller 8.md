@@ -120,6 +120,22 @@ El dispositivo enviaba las etiquetas detectadas mediante MQTT utilizando texto p
 AT+INVOKE=-1,0,0
 ```
 
+<img width="1233" height="898" alt="image" src="https://github.com/user-attachments/assets/c8e33446-bc5c-463b-aa6a-de7bc3f7bc8f" />
+
+7. Problema identificado
+
+Durante la ejecución del proyecto surgió una dificultad asociada a la recepción y visualización de los mensajes enviados mediante MQTT.
+
+A pesar de que el ESP32S3 lograba conectarse correctamente al broker y el sistema principal reconocía la presencia del dispositivo, la información transmitida no aparecía de forma adecuada en la interfaz principal. Aunque existían indicios de que los mensajes estaban siendo enviados, el contenido no podía visualizarse correctamente dentro del broker principal.
+
+Tras realizar las pruebas correspondientes, se determinó que la causa más probable estaría relacionada con una configuración incorrecta del topic utilizado para la publicación de datos. Esto significa que el ESP32S3 posiblemente enviaba los mensajes hacia un topic diferente al que el sistema principal estaba monitoreando. Como consecuencia, el envío de información sí era detectado, pero los datos no podían ser mostrados ni interpretados correctamente en la plataforma principal.
+
+### 9. Conclusiones
+
+El uso conjunto del ESP32S3 Sense y la plataforma SenseCraft AI demostró ser una alternativa práctica y eficiente para el desarrollo de proyectos basados en TinyML, ya que permite entrenar, implementar y ejecutar modelos de inteligencia artificial directamente en dispositivos embebidos y en tiempo real. Asimismo, se comprobó que el rendimiento y nivel de precisión del modelo están estrechamente relacionados con la calidad, diversidad y cantidad de imágenes que conforman el dataset utilizado durante el entrenamiento.
+
+Por otro lado, en aplicaciones orientadas al Internet de las Cosas (IoT), el protocolo MQTT destaca como una opción adecuada debido a su bajo consumo de recursos y rapidez en la transmisión de información. Sin embargo, para garantizar un funcionamiento correcto del sistema, resulta fundamental definir apropiadamente la estructura de los topics y el formato de los payloads, evitando así errores en la comunicación entre dispositivos y plataformas conectadas.
+
 
 
 
