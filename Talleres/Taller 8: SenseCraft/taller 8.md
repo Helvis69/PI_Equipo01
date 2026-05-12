@@ -32,5 +32,13 @@ Desarrollar un sistema de clasificación de imágenes en tiempo real utilizando 
 
 <img width="720" height="623" alt="WhatsApp Image 2026-05-12 at 6 01 43 PM" src="https://github.com/user-attachments/assets/ef13f7fd-e01c-49c1-bca8-adf15926fc35" />
 
+##Objetivos Específicos
+
+Elaborar un conjunto de imágenes destinado al entrenamiento del modelo.
+Desarrollar y entrenar un sistema de clasificación de imágenes.
+Integrar el modelo entrenado en el dispositivo ESP32S3 Sense.
+Establecer la comunicación mediante el protocolo MQTT.
+Transmitir las etiquetas generadas por la clasificación hacia el broker MQTT.
+Evaluar el funcionamiento y desempeño del sistema IoT implementado.
 
 
