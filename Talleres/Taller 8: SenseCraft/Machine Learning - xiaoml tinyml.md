@@ -10,7 +10,7 @@ El proyecto consistió en entrenar un modelo capaz de reconocer distintos objeto
 
 Actualmente, la inteligencia artificial aplicada a dispositivos embebidos permite ejecutar modelos de Machine Learning directamente en microcontroladores de bajo consumo. Esto hace posible desarrollar sistemas inteligentes sin necesidad de depender completamente de servidores externos o computadoras potentes.
 
-En este taller se utilizó el dispositivo **ESP32S3 Sense**, el cual integra conectividad WiFi y una cámara capaz de capturar imágenes en tiempo real. Mediante la plataforma **SenseCraft AI**, se entrenó un modelo de clasificación de imágenes para identificar diferentes objetos.
+En este taller se utilizó el dispositivo ESP32S3 Sense, el cual integra conectividad WiFi y una cámara capaz de capturar imágenes en tiempo real. Mediante la plataforma SenseCraft AI, se entrenó un modelo de clasificación de imágenes para identificar diferentes objetos.
 
 El proyecto se enfocó en reconocer tres categorías principales:
 
