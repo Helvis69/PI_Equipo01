@@ -89,6 +89,28 @@ Para el desarrollo del modelo se emplearon algoritmos de clasificación de imág
 
 <img width="1280" height="590" alt="image" src="https://github.com/user-attachments/assets/f380a2ac-1fc4-40e3-9f98-2d76da781f1e" />
 
+### 4.3 Implementación del Modelo en el ESP32S3 Sense
+
+Después de concluir el proceso de entrenamiento, se obtuvo el firmware generado automáticamente por la plataforma SenseCraft AI. Posteriormente, el dispositivo ESP32S3 Sense fue conectado a la computadora mediante un cable USB para realizar la carga del firmware correspondiente. Una vez completada la instalación, se reinició el microcontrolador y se ejecutaron distintas pruebas de inferencia para verificar el funcionamiento del modelo.
+
+Mediante este procedimiento, el ESP32S3 logró procesar y ejecutar el modelo de inteligencia artificial directamente en el propio dispositivo, evitando la dependencia de servidores externos o sistemas de procesamiento adicionales.
+
+## 5. Configuración MQTT
+
+Para transmitir los resultados obtenidos por el modelo se configuró una salida MQTT.
+
+MQTT es un protocolo de mensajería ligero ampliamente utilizado en sistemas IoT debido a su bajo consumo de recursos y facilidad de integración. Usando los parámetros:
+
+| Parámetro | Valor |
+|---|---|
+| Broker | `rp10.rcr-labs.com` |
+| Puerto | `1883` |
+| Usuario | `Alumno` |
+| Contraseña | `Cayetano2026` |
+| SSL | `No` |
+| Client ID | `UPCH/Equipo1` |
+
+
 
 
 
