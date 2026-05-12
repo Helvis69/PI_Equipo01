@@ -66,7 +66,7 @@ Se definieron tres categorías:
 
 - lapiceros
 - Celular
-- Cmouse
+- mouse
 
 <img width="1280" height="562" alt="image" src="https://github.com/user-attachments/assets/dd4fc234-c19c-45f9-b48c-90fd2875729c" />
 
