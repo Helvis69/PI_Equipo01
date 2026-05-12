@@ -136,7 +136,19 @@ El uso conjunto del ESP32S3 Sense y la plataforma SenseCraft AI demostró ser un
 
 Por otro lado, en aplicaciones orientadas al Internet de las Cosas (IoT), el protocolo MQTT destaca como una opción adecuada debido a su bajo consumo de recursos y rapidez en la transmisión de información. Sin embargo, para garantizar un funcionamiento correcto del sistema, resulta fundamental definir apropiadamente la estructura de los topics y el formato de los payloads, evitando así errores en la comunicación entre dispositivos y plataformas conectadas.
 
+### Bibliografía
 
+- SenseCraft AI  
+  https://sensecraft.seeed.cc/ai
+
+- MQTT.org  
+  https://mqtt.org
+
+- ESP32 Documentation  
+  https://docs.espressif.com
+
+- HiveMQ MQTT Essentials  
+  https://www.hivemq.com/mqtt-essentials
 
 
 
