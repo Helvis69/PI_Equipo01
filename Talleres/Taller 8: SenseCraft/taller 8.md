@@ -70,5 +70,13 @@ Se definieron tres categorías:
 
 <img width="1280" height="562" alt="image" src="https://github.com/user-attachments/assets/dd4fc234-c19c-45f9-b48c-90fd2875729c" />
 
+Para cada una de las categorías se obtuvieron cerca de 100 imágenes empleando la cámara integrada del ESP32S3 Sense. Las capturas se realizaron considerando distintos ángulos, posiciones, cambios de iluminación y variedad de fondos. Gracias a estas variaciones, el modelo pudo adquirir una mayor capacidad para identificar los objetos en escenarios y condiciones reales diversas.
+
+### 4.2 Entrenamiento del Modelo
+
+El proceso de entrenamiento se llevó a cabo utilizando la plataforma SenseCraft, pasando por distintas etapas como la creación de clases, la captura de imágenes, la organización automática del conjunto de datos, el entrenamiento en la nube, la evaluación del desempeño del modelo y finalmente la exportación del firmware.
+
+Para el desarrollo del modelo se emplearon algoritmos de clasificación de imágenes adaptados y optimizados para dispositivos embebidos. La finalidad principal fue que el sistema lograra aprender las características visuales de cada objeto, permitiendo así su identificación en tiempo real durante la ejecución del dispositivo.
+
 
 
