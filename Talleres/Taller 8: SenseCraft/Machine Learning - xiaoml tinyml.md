@@ -1,10 +1,6 @@
 ## Clasificación de Imágenes con IA y Comunicación MQTT usando ESP32S3 Sense
 
-Este informe documenta el desarrollo de un sistema de clasificación de imágenes utilizando inteligencia artificial embebida (TinyML) con el dispositivo XIAO ESP32S3 Sense y la plataforma SenseCraft AI.  
 
-El proyecto consistió en entrenar un modelo capaz de reconocer distintos objetos mediante una cámara integrada y posteriormente enviar los resultados obtenidos hacia un servidor MQTT para su monitoreo en tiempo real.
-
----
 
 ## 1. Introducción
 
