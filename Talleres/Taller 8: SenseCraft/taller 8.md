@@ -110,6 +110,16 @@ MQTT es un protocolo de mensajería ligero ampliamente utilizado en sistemas IoT
 | SSL | `No` |
 | Client ID | `UPCH/Equipo1` |
 
+<img width="1280" height="647" alt="image" src="https://github.com/user-attachments/assets/54839be7-9abe-455f-ad24-56f1592381c1" />
+
+## 6. Envío de Datos
+
+El dispositivo enviaba las etiquetas detectadas mediante MQTT utilizando texto plano o estructuras JSON. Para activar el flujo de inferencia y transmisión de datos se utilizó el siguiente comando:
+
+```text
+AT+INVOKE=-1,0,0
+```
+
 
 
 
