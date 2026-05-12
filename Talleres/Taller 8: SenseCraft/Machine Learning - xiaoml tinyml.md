@@ -113,7 +113,7 @@ AT+INVOKE=-1,0,0
 
 ---
 
-# 7. Problema Encontrado
+## 7. Problema Encontrado
 
 Durante el desarrollo se presentó un inconveniente relacionado con la visualización de los mensajes MQTT.
 
@@ -123,13 +123,13 @@ Se identificó de que el problema se encontraría en la configuración de topic 
 
 ---
 
-# 9. Conclusiones
+## 9. Conclusiones
 
 La integración del ESP32S3 Sense con la plataforma SenseCraft AI representa una solución integral y eficiente para el ecosistema TinyML, permitiendo entrenar y desplegar modelos de visión o IA en tiempo real, cuya precisión depende directamente de la calidad y variedad del dataset utilizado. Para la implementación práctica en IoT, el protocolo MQTT resulta ideal por su ligereza en la transmisión de datos, siempre y cuando se garantice una estructuración rigurosa de topics y payloads para asegurar la correcta comunicación y funcionamiento del sistema.
 
 ---
 
-## Bibliografía
+### Bibliografía
 
 - SenseCraft AI  
   https://sensecraft.seeed.cc/ai
