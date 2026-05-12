@@ -55,3 +55,17 @@ Evaluar el funcionamiento y desempeño del sistema IoT implementado.
 
 ---
 
+
+## 4. Desarrollo del Proyecto
+
+### 4.1 Recolección de Datos
+
+El primer paso consistió en crear un dataset de imágenes para entrenar el modelo de inteligencia artificial.
+
+Se definieron tres categorías:
+
+- lapicerps
+- Celular
+- Cmouse
+
+
