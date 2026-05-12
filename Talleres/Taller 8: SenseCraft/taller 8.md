@@ -32,7 +32,7 @@ Desarrollar un sistema de clasificación de imágenes en tiempo real utilizando 
 
 <img width="720" height="623" alt="WhatsApp Image 2026-05-12 at 6 01 43 PM" src="https://github.com/user-attachments/assets/ef13f7fd-e01c-49c1-bca8-adf15926fc35" />
 
-##Objetivos Específicos
+### Objetivos Específicos
 
 Elaborar un conjunto de imágenes destinado al entrenamiento del modelo.
 Desarrollar y entrenar un sistema de clasificación de imágenes.
@@ -41,4 +41,17 @@ Establecer la comunicación mediante el protocolo MQTT.
 Transmitir las etiquetas generadas por la clasificación hacia el broker MQTT.
 Evaluar el funcionamiento y desempeño del sistema IoT implementado.
 
+
+## 3. Materiales Utilizados
+
+| Material | Descripción |
+|---|---|
+| XIAO ESP32S3 Sense | Microcontrolador con cámara integrada |
+| Computadora | Configuración y entrenamiento |
+| SenseCraft AI | Plataforma de entrenamiento TinyML |
+| Red WiFi | Comunicación del dispositivo |
+| Broker MQTT | Recepción de mensajes |
+| Cable USB | Programación del ESP32S3 |
+
+---
 
